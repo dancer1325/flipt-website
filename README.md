@@ -4,6 +4,9 @@
 
 This repository powers the content behind Flipt's docs at [flipt.io/docs](https://www.flipt.io/docs)
 
+## Structure
+* Folders mirroring the https://docs.flipt.io/introduction
+
 ## 📝 Contributing
 
 We welcome contributions to the documentation. If you find a typo or want to add a new section, please open a PR.
